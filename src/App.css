@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  border-style: dashed;
+  width: 1000px;
+  height: 1000px;
+}
+
+.Circle {
+  position: absolute;
+  border-radius: 100%;
+  background-color: red;
+  width: 20px;
+  height: 20px;
 }
 
 .App-logo {
